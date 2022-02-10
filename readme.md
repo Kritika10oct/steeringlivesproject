@@ -1,4 +1,5 @@
-How to run?
+HOW TO RUN?
+
 Configure your environment variable for
 1. Database URL with Schema name and key name should be DB_URL
    (Ex: DB_URL=jdbc:mysql://localhost:3306/employee)
